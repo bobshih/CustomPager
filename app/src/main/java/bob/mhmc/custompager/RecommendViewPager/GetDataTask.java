@@ -22,7 +22,7 @@ import java.util.List;
  */
 
 public class GetDataTask extends AsyncTask<Void, Void, Void> {
-	private String URL = "http://140.116.82.103:81/recommend.php";
+	private String URL = "the url";
 	private JSONArray objects;
 	private AsyncResponse delegate;
 

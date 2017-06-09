@@ -5,4 +5,4 @@ The buttom component is the pager, and the pager's data is from the certain url 
 
 the below is the user interface.
 
-![alt text](https://raw.githubusercontent.com/bobshih/CustomPager/master/Screenshot.png)
+![alt screenshot pic](https://raw.githubusercontent.com/bobshih/CustomPager/master/Screenshot.png)
